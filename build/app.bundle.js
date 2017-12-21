@@ -68,7 +68,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 var log = __webpack_require__(1); //importowany moduł z mojego projektu
-log('hello world'); //wywołanie funkcji z modułu 
+log('hello Adam Basiak'); //wywołanie funkcji z modułu 
 
 /***/ }),
 /* 1 */

@@ -1,2 +1,2 @@
-var log = require('./log'); //importowany moduł z mojego projektu
-log('hello world'); //wywołanie funkcji z modułu 
+import log from './log.js';
+log('hello world');
